@@ -13,5 +13,5 @@
 - JavaScript
 
 ## Contact with me 📞:
-- <img algin="left" width="26px" src="https://user-images.githubusercontent.com/67810802/147393692-c48513a1-c535-42ac-a9b6-5bcfeae6c444.png" />: 3ACE#5744
+- <img algin="left" width="30px" src="https://user-images.githubusercontent.com/67810802/147393692-c48513a1-c535-42ac-a9b6-5bcfeae6c444.png" /> 3ACE#5744
 
