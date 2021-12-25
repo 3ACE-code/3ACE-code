@@ -13,5 +13,5 @@
 - JavaScript
 
 ## Contact with me 📞:
-- <img algin="left" width="30px" src="https://imgur.com/zxQhPBV.png" /> 3ACE#5744
+- <img algin="left" width="27px" src="https://imgur.com/zxQhPBV.png" /> 3ACE#5744
 
