@@ -2,10 +2,10 @@
 <br />
 
 ## Information about me:
-- I am 17 years old
 - My education is the operation and programming of CNC machines
 - My hobby is programming in various languages
 - From time to time I deal with the configuration of game servers
+<br />
 
 ### Languages & Tools:
 - HTML
