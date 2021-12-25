@@ -1,6 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=3ACE-code&&show_icons=true&theme=ayu-mirage&hide=issues&custom_title=Hi I'm 3ACE-code "/>
 <br />
-### Information about me:
+
+## Information about me:
 - I am 17 years old
 - My education is the operation and programming of CNC machines
 - My hobby is programming in various languages
