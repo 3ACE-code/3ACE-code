@@ -9,7 +9,6 @@
 - CSS
 - Golang
 - Node.js
-- Vue.js
 - JavaScript
 
 ## Contact with me 📞:
