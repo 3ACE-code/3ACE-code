@@ -13,5 +13,5 @@
 - JavaScript
 
 ## Contact with me 📞:
-- Discord: 3ACE#5744![image](https://user-images.githubusercontent.com/67810802/147393688-733b41b8-a179-464c-812d-ae9d59531b9f.png)
+- ![image](https://user-images.githubusercontent.com/67810802/147393692-c48513a1-c535-42ac-a9b6-5bcfeae6c444.png): 3ACE#5744
 
