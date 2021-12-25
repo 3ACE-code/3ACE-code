@@ -7,7 +7,7 @@
 - From time to time I deal with the configuration of game servers
 <br />
 
-### Languages & Tools:
+## Languages & Tools:
 - HTML
 - CSS
 - Golang
