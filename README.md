@@ -11,3 +11,6 @@
 - Node.js
 - Vue.js
 - JavaScript
+
+## Contact with me 📞:
+- Discord: 3ACE#5744
