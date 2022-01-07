@@ -7,6 +7,7 @@
 ## Languages & Tools 🧰:
 - HTML
 - CSS
+- Python
 - Golang
 - Node.js
 - JavaScript
