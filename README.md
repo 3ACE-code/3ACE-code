@@ -9,6 +9,8 @@
 - CSS
 - Python
 - Golang
+- Lua
+- C#
 - Node.js
 - JavaScript
 
