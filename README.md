@@ -49,6 +49,6 @@ Jeśli chcesz pogadać o kodzie, serwerach, zleceniach na MLO lub maszynach CNC,
   <img align="center" width="25px" src="https://imgur.com/zxQhPBV.png" /> Discord: 3ace
 </a>
 <br>
-<a href="mailto:danielsony28@gmail.com">
+<a href="gmail:danielsony28@gmail.com">
   📧 Email: danielsony28@gmail.com
 </a>
