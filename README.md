@@ -46,5 +46,5 @@ Jestem programistą z pasji i zawodu, specjalizującym się w tworzeniu stron, a
 Jeśli chcesz pogadać o kodzie, serwerach, zleceniach na MLO lub maszynach CNC, łap mnie tutaj:
 
 <a href="https://discordapp.com/users/TWÓJ_DISCORD_ID">
-  <img align="center" width="25px" src="https://imgur.com/zxQhPBV.png" /> **Discord:** 3ace
+  <img align="center" width="25px" src="https://imgur.com/zxQhPBV.png" /> Discord: 3ace
 </a>
