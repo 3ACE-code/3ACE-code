@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=3ACE-code&show_icons=true&theme=dark&locale=pl&icon_color=4c71f2&border_radius=8.0
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3ACE-code&show_icons=true&theme=dark&locale=pl&icon_color=4c71f2&border_radius=8.0)
 
 ## Information about me 👋:
 - My education is the operation and programming of CNC machines
